@@ -29,3 +29,4 @@ Think about the efficiency of your algorithm. How many iterations does it do? Lo
 * [Wikipedia](http://en.wikipedia.org/) - [Prime number](http://en.wikipedia.org/wiki/Prime_number)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/prime-ruby'>Prime? Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Implementing Prime</p>
